@@ -4,10 +4,12 @@
 ```
 $ git clone ...
 ```
-
+TODO
 
 ### Symlinks erstellen
 ```
 $ ln -s ....
 ``` 
+
+TODO
 
